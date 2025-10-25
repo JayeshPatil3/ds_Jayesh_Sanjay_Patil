@@ -75,7 +75,6 @@ Methodology Highlights: The analysis involved date standardization, PnL volatili
 The final analysis confirms that profitability is maximized by operating as a contrarian: SELL trades during Greed yield the highest average PnL in the dataset.
 
 The mention leverage column is missing from the dataset which is restricting the further analysis
----
 
 ---
 
