@@ -11,7 +11,7 @@
 -  [Google Colab Notebook](#Google-Colab-Notebook)
 -  [Data Sources and Methodology](#Data-Sources-and-Methodology)
 -  [Key Findings and Recommendations](#key-findings-and-recommendations)
--  [Key Visuals](#️visuals)
+-  [Visuals](#️visuals)
 -  [Author and Contact](#-author-and-contact)
 
 ---
