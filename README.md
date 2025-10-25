@@ -11,7 +11,7 @@
 -  [Google Colab Notebook](#Google-Colab-Notebook)
 -  [Data Sources and Methodology](#Data-Sources-and-Methodology)
 -  [Key Findings and Recommendations](#key-findings-and-recommendations)
--  [Key Visuals](#️-visuals)
+-  [Key Visuals](#️visuals)
 -  [Author and Contact](#-author-and-contact)
 
 ---
@@ -79,7 +79,7 @@ The mention leverage column is missing from the dataset which is restricting the
 
 ---
 
-## 📊 Visuals
+## Visuals
 
 The visuals generated for analysis are, 
 
