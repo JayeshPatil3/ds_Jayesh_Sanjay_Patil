@@ -132,7 +132,7 @@ The visuals generated for analysis are,
 
 
 ### Average PnL by Sentiment: TOP 10% Most Profitable Accounts
-![Average PnL by Sentiment: TOP 10% Most Profitable Accounts](Outputs/Average_PnL_by_Sentiment_TOP_ Most_Profitable_Accounts.jpg)
+![Average PnL by Sentiment: TOP Most Profitable Accounts](Outputs/Average_PnL_by_Sentiment_TOP_ Most_Profitable_Accounts.jpg)
 
 | Visual Output | Description |
 | :--- | :--- |
